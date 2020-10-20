@@ -2,6 +2,8 @@
 
 Ryan needs to fiddle with Websockets before blindly coding a MERN app
 
+The two files that are interesting are `client-websocket/App.tsx` and `server-websocket/index.js`
+
 Clone the Repo. Go into each of the folders and run:
 ```shell
 npm init
