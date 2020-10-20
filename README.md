@@ -2,7 +2,7 @@
 
 Ryan needs to fiddle with Websockets before blindly coding a MERN app
 
-The two files that are interesting are `client-websocket/App.tsx` and `server-websocket/index.js`
+The two files that are interesting are `client-websocket/src/App.tsx` and `server-websocket/src/index.js`
 
 Clone the Repo. Go into each of the folders and run:
 ```shell
