@@ -38,7 +38,7 @@ function App() {
           <input
               type="text"
               id={'name'}
-              placeholder={'Enter your name...'}
+              placeholder={'Enter message...'}
               value={message}
               onChange={e => setMessage(e.target.value)}
           />
